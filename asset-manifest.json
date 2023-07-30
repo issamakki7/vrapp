@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vrapp/static/css/main.c2dd648f.css",
+    "main.js": "/vrapp/static/js/main.76270e6a.js",
+    "static/js/787.ef3ec5c2.chunk.js": "/vrapp/static/js/787.ef3ec5c2.chunk.js",
+    "static/media/estate2.mp4": "/vrapp/static/media/estate2.1ff871193599129cf115.mp4",
+    "static/media/salzburg.jpg": "/vrapp/static/media/salzburg.51ca979d2db4fcbcff57.jpg",
+    "static/media/rome.jpg": "/vrapp/static/media/rome.ec8dba3fc54ccdfbf2af.jpg",
+    "static/media/furniture.jpg": "/vrapp/static/media/furniture.2745c77121b66f45faf6.jpg",
+    "static/media/house.jpg": "/vrapp/static/media/house.5ee712a53934e954b437.jpg",
+    "static/media/bruges.jpg": "/vrapp/static/media/bruges.f76883da78887e8b74be.jpg",
+    "static/media/brussels.jfif": "/vrapp/static/media/brussels.ae89e05995f6de4b6f66.jfif",
+    "static/media/munich.jfif": "/vrapp/static/media/munich.a45330247d36a1a3c6ef.jfif",
+    "static/media/chip.png": "/vrapp/static/media/chip.f88a902d8d270caaf1ac.png",
+    "index.html": "/vrapp/index.html",
+    "main.c2dd648f.css.map": "/vrapp/static/css/main.c2dd648f.css.map",
+    "main.76270e6a.js.map": "/vrapp/static/js/main.76270e6a.js.map",
+    "787.ef3ec5c2.chunk.js.map": "/vrapp/static/js/787.ef3ec5c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2dd648f.css",
+    "static/js/main.76270e6a.js"
+  ]
+}
